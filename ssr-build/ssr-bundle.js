@@ -286,28 +286,52 @@ var Sidebar = function Sidebar() {
   }, h("p", null, "Profile Summary"), h("ul", null, h("li", null, h("span", null, "Age ", h("img", {
     src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
-  })), h("b", null, "18")), h("li", null, h("span", null, "Education ", h("img", {
+  })), h("b", null, "18 ", h("img", {
     src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
-  })), h("b", null, "High school diploma")), h("li", null, h("span", null, "Work experience (Canada) ", h("img", {
+  }))), h("li", null, h("span", null, "Education ", h("img", {
     src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
-  })), h("b", null, "2 years")), h("li", null, h("span", null, "Work experience (World) ", h("img", {
+  })), h("b", null, "High school diploma ", h("img", {
     src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
-  })), h("b", null, "I have relatives in Canada with Canadian citizenship or permanent residency")), h("li", null, h("span", null, "Job offer ", h("img", {
+  }))), h("li", null, h("span", null, "Work experience (Canada) ", h("img", {
     src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
-  })), h("b", null, "I have a valid job offer from a registered Canadian employer")), h("li", null, h("span", null, "English language skills ", h("img", {
+  })), h("b", null, "2 years ", h("img", {
     src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
-  })), h("b", null, "CLB 6 - 7 (High)")), h("li", null, h("span", null, "French language skills ", h("img", {
+  }))), h("li", null, h("span", null, "Work experience (World) ", h("img", {
     src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
-  })), h("b", null, "NCLC 0 - 3 (Low)")), h("li", null, h("span", null, "Canadian relatives ", h("img", {
+  })), h("b", null, "I have relatives in Canada with Canadian citizenship or permanent residency ", h("img", {
     src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
-  })), h("b", null, "I have relatives in Canada with Canadian citizenship or permanent residency"))), h("div", {
+  }))), h("li", null, h("span", null, "Job offer ", h("img", {
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    alt: "check"
+  })), h("b", null, "I have a valid job offer from a registered Canadian employer ", h("img", {
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    alt: "check"
+  }))), h("li", null, h("span", null, "English language skills ", h("img", {
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    alt: "check"
+  })), h("b", null, "CLB 6 - 7 (High) ", h("img", {
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    alt: "check"
+  }))), h("li", null, h("span", null, "French language skills ", h("img", {
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    alt: "check"
+  })), h("b", null, "NCLC 0 - 3 (Low) ", h("img", {
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    alt: "check"
+  }))), h("li", null, h("span", null, "Canadian relatives ", h("img", {
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    alt: "check"
+  })), h("b", null, "I have relatives in Canada with Canadian citizenship or permanent residency ", h("img", {
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    alt: "check"
+  })))), h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].resubmit
   }, h(preact_router_match__WEBPACK_IMPORTED_MODULE_0__["Link"], {
     href: "/"
@@ -367,7 +391,7 @@ var HowItWorkCard = function HowItWorkCard() {
     }, h("img", {
       src: e.image,
       alt: "img"
-    }), h("h4", null, e.value), h("p", null, e.label));
+    }), h("h4", null, e.value, "."), h("p", null, e.label));
   }));
 };
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__("HteQ")["h"], __webpack_require__("HteQ")["Fragment"]))
@@ -497,7 +521,7 @@ var ThankYou = function ThankYou() {
 
 "use strict";
 // extracted by mini-css-extract-plugin
-/* harmony default export */ __webpack_exports__["a"] = ({"topBanner":"topBanner__ZoZ3Q","topBannerContainer":"topBannerContainer__j2kx2","topBannerTitle":"topBannerTitle__eklzG","formGrid":"formGrid__lu6vo","active":"active__du3Zy","formGroup":"formGroup__MywCE","buttonGrid":"buttonGrid__saoE+","backBtn":"backBtn__xHrho","submitBtn":"submitBtn__S26p6","formScroll":"formScroll__Hg34P","howItWork":"howItWork__ns-PQ","howItWorkContainer":"howItWorkContainer__Y+RiZ","howItWorkGrid":"howItWorkGrid__EPcfb","howItWorkCard":"howItWorkCard__B3QBZ","testimonial":"testimonial__aBeSi","testimonialContainer":"testimonialContainer__YXRgq","testimonialGrid":"testimonialGrid__Uca9I","testimonialCard":"testimonialCard__GINIb","rating":"rating__fsW+n","callToAction":"callToAction__1Z-ma","callToActionContainer":"callToActionContainer__ByZwV","callToActionGrid":"callToActionGrid__0uvyu","callToActionContent":"callToActionContent__sxMal"});
+/* harmony default export */ __webpack_exports__["a"] = ({"topBanner":"topBanner__ZoZ3Q","topBannerContainer":"topBannerContainer__j2kx2","topBannerTitle":"topBannerTitle__eklzG","formGrid":"formGrid__lu6vo","active":"active__du3Zy","formGroup":"formGroup__MywCE","formScroll":"formScroll__Hg34P","buttonGrid":"buttonGrid__saoE+","backBtn":"backBtn__xHrho","submitBtn":"submitBtn__S26p6","howItWork":"howItWork__ns-PQ","howItWorkContainer":"howItWorkContainer__Y+RiZ","howItWorkGrid":"howItWorkGrid__EPcfb","howItWorkCard":"howItWorkCard__B3QBZ","testimonial":"testimonial__aBeSi","testimonialContainer":"testimonialContainer__YXRgq","testimonialGrid":"testimonialGrid__Uca9I","testimonialCard":"testimonialCard__GINIb","rating":"rating__fsW+n","callToAction":"callToAction__1Z-ma","callToActionContainer":"callToActionContainer__ByZwV","callToActionGrid":"callToActionGrid__0uvyu","callToActionCover":"callToActionCover__5m2Yu","callToActionContent":"callToActionContent__sxMal"});
 
 /***/ }),
 
@@ -658,14 +682,6 @@ function _possibleConstructorReturn(self, call) {
   return assertThisInitialized(self);
 }
 module.exports = _possibleConstructorReturn, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "KcjC":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "38168c4e7ef8f9e7556c1b8d4c20ffe6.svg");
 
 /***/ }),
 
@@ -10604,9 +10620,7 @@ module.exports = _inherits, module.exports.__esModule = true, module.exports["de
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var react_select__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("UpPA");
-/* harmony import */ var _assets_home_light_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("KcjC");
-/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("EbY7");
-
+/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("EbY7");
 
 
 var TopBanner = function TopBanner() {
@@ -10663,22 +10677,19 @@ var TopBanner = function TopBanner() {
     label: 'No'
   }];
   return h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].topBanner
+    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].topBanner
   }, h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].topBannerContainer
+    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].topBannerContainer
   }, h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].topBannerTitle
+    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].topBannerTitle
   }, h("h3", null, "Check if You Can Immigrate to ", h("span", null, "Canada")), h("p", null, "Get a full list of eligible immigration programs based on your profile.")), h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].formGrid
-  }, h("h4", null, "Complete the Form for ", h("span", null, "Instant Results ", h("img", {
-    src: _assets_home_light_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
-    alt: ""
-  }))), h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].formBox
+    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].formGrid
+  }, h("h4", null, "Complete the Form for ", h("span", null, "Instant Results")), h("div", {
+    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].formBox
   }, h("ul", null, h("li", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].active
+    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].active
   }, h(AgeIcon, null)), h("li", null, h(EducationIcon, null)), h("li", null, h(ExperienceIcon, null)), h("li", null, h(LanguageIcon, null)), h("li", null, h(RelativesIcon, null))), h("form", null, h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].formScroll
+    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].formScroll
   }, h(SelectInput, {
     label: "What is your age?",
     options: age
@@ -10695,11 +10706,11 @@ var TopBanner = function TopBanner() {
     label: "Do you have Canadian relatives?",
     options: relatives
   })), h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].buttonGrid
+    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].buttonGrid
   }, h("button", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].backBtn
+    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].backBtn
   }, "Back"), h("button", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].submitBtn
+    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].submitBtn
   }, "Check My Options")))))));
 };
 /* harmony default export */ __webpack_exports__["a"] = (TopBanner);
@@ -10707,7 +10718,7 @@ var SelectInput = function SelectInput(_ref) {
   var label = _ref.label,
     options = _ref.options;
   return h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].formGroup
+    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].formGroup
   }, h("label", null, label), h(react_select__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"], {
     options: options
   }));
@@ -10887,7 +10898,7 @@ var RelativesIcon = function RelativesIcon() {
 
 "use strict";
 // extracted by mini-css-extract-plugin
-/* harmony default export */ __webpack_exports__["a"] = ({"sidebar":"sidebar__+lnjO","report":"report__0e2nB","sidebarGrid":"sidebarGrid__v6Xt1","resubmit":"resubmit__oSkc7","reportBox":"reportBox__JTBFn","reportGrid":"reportGrid__cY21S","reportCard":"reportCard__Xq2pJ","blurred":"blurred__bxCIp","reportCardTitle":"reportCardTitle__Y1VJi","reportLoader":"reportLoader__kd3ig","reportCardFooter":"reportCardFooter__4vIvz","formContainer":"formContainer__-h5rO","formTitle":"formTitle__rKtBp","formGrid":"formGrid__AfLtb","formBox":"formBox__3jqhN","formContent":"formContent__RccAs"});
+/* harmony default export */ __webpack_exports__["a"] = ({"sidebar":"sidebar__+lnjO","report":"report__0e2nB","sidebarGrid":"sidebarGrid__v6Xt1","resubmit":"resubmit__oSkc7","reportBox":"reportBox__JTBFn","reportGrid":"reportGrid__cY21S","reportCard":"reportCard__Xq2pJ","blurred":"blurred__bxCIp","reportCardTitle":"reportCardTitle__Y1VJi","reportLoader":"reportLoader__kd3ig","reportCardFooter":"reportCardFooter__4vIvz","formContainer":"formContainer__-h5rO","formTitle":"formTitle__rKtBp","formGrid":"formGrid__AfLtb","formBox":"formBox__3jqhN","formContent":"formContent__RccAs","results":"results__VABbx","pageTitle":"pageTitle__ewL8F"});
 
 /***/ }),
 

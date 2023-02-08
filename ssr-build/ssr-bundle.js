@@ -142,9 +142,9 @@ var ReportCard = function ReportCard() {
     class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].reportCard
   }, h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].reportCardTitle
-  }, h("h4", null, "Express Entry"), h("p", null, "ELIGIBLE IMMIGRATION PROGRAMS"), h("div", {
+  }, h("h4", null, "Express Entry"), h("span", null, "Excellent chances of being accepted!"), h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].reportLoader
-  }, "Loader"), h("p", null, "PNP programs offer a pathway to permanent residence for skilled workers who are interested in immigrating to one of 13 Canadian provinces or territories.")), h("div", {
+  }), h("p", null, "PNP programs offer a pathway to permanent residence for skilled workers who are interested in immigrating to one of 13 Canadian provinces or territories.")), h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].reportCardFooter
   }, h("p", null, "A deeper profile research is required. Please contact an immigration professional fom more information."), h(preact_router_match__WEBPACK_IMPORTED_MODULE_0__["Link"], {
     href: "/"
@@ -181,7 +181,7 @@ module.exports = _nonIterableRest, module.exports.__esModule = true, module.expo
 
 "use strict";
 // extracted by mini-css-extract-plugin
-/* harmony default export */ __webpack_exports__["a"] = ({"results":"results__pJXMl"});
+/* harmony default export */ __webpack_exports__["a"] = ({"results":"results__pJXMl","container":"container__7gxER","resultGrid":"resultGrid__hDGn4","callToForm":"callToForm__dQ4t4","pageTitle":"pageTitle__p5w1h"});
 
 /***/ }),
 
@@ -271,42 +271,47 @@ module.exports = _toConsumableArray, module.exports.__esModule = true, module.ex
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("L+aG");
-/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("gdic");
+/* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var preact_router_match__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("ox/y");
+/* harmony import */ var preact_router_match__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(preact_router_match__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("L+aG");
+/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("gdic");
+
 
 
 var Sidebar = function Sidebar() {
   return h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].sidebar
+    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].sidebar
   }, h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].sidebarGrid
+    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].sidebarGrid
   }, h("p", null, "Profile Summary"), h("ul", null, h("li", null, h("span", null, "Age ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"],
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "18")), h("li", null, h("span", null, "Education ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"],
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "High school diploma")), h("li", null, h("span", null, "Work experience (Canada) ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"],
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "2 years")), h("li", null, h("span", null, "Work experience (World) ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"],
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "I have relatives in Canada with Canadian citizenship or permanent residency")), h("li", null, h("span", null, "Job offer ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"],
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "I have a valid job offer from a registered Canadian employer")), h("li", null, h("span", null, "English language skills ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"],
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "CLB 6 - 7 (High)")), h("li", null, h("span", null, "French language skills ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"],
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "NCLC 0 - 3 (Low)")), h("li", null, h("span", null, "Canadian relatives ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"],
+    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "I have relatives in Canada with Canadian citizenship or permanent residency"))), h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].resubmit
-  }, "Resubmit")));
+    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].resubmit
+  }, h(preact_router_match__WEBPACK_IMPORTED_MODULE_0__["Link"], {
+    href: "/"
+  }, "Resubmit"))));
 };
 /* harmony default export */ __webpack_exports__["a"] = (Sidebar);
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__("HteQ")["h"]))
@@ -373,22 +378,24 @@ var HowItWorkCard = function HowItWorkCard() {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var _assets_results_lock_svg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("f4hy");
-/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("gdic");
+/* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var preact_router__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("Y3FI");
+/* harmony import */ var _assets_results_lock_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("f4hy");
+/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("gdic");
+
 
 
 var ResultForm = function ResultForm() {
   return h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].formContainer
+    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].formContainer
   }, h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].formTitle
+    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].formTitle
   }, h("h3", null, h("img", {
-    src: _assets_results_lock_svg__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"],
+    src: _assets_results_lock_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "lock"
   }), " Unlock 60+ available programs"), h("p", null, "Choosing the right immigration program, depending on your own profile, can be challenging to begin with. We are happy to answer any questions about the immigration process to Canada if you are interested in finding out more!")), h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].formGrid
+    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].formGrid
   }, h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].formBox
+    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].formBox
   }, h("form", null, h("input", {
     type: "text",
     name: "firstname",
@@ -408,8 +415,12 @@ var ResultForm = function ResultForm() {
   }), h("button", null, "Book A Meeting"), h("label", null, h("input", {
     type: "checkbox",
     name: "phone"
-  }), " By clicking on 'book a meeting\u2019, you are agreeing to our T&C and Privacy Policy."))), h("div", {
-    class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].formContent
+  }), h("span", null, "By clicking on 'book a meeting\u2019, you are agreeing to our ", h(preact_router__WEBPACK_IMPORTED_MODULE_0__["Link"], {
+    href: "/"
+  }, "T&C"), " and ", h(preact_router__WEBPACK_IMPORTED_MODULE_0__["Link"], {
+    href: "/"
+  }, "Privacy Policy"), ".")))), h("div", {
+    class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].formContent
   }, h("ul", null, h("li", null, "Speak with an immigration professional."), h("li", null, "Get an in-depth immigration plan."), h("li", null, "Save time and money on planning and preparation. "), h("li", null, "Make a fresh start in Canada.")))));
 };
 /* harmony default export */ __webpack_exports__["a"] = (ResultForm);
@@ -10876,7 +10887,7 @@ var RelativesIcon = function RelativesIcon() {
 
 "use strict";
 // extracted by mini-css-extract-plugin
-/* harmony default export */ __webpack_exports__["a"] = ({});
+/* harmony default export */ __webpack_exports__["a"] = ({"sidebar":"sidebar__+lnjO","report":"report__0e2nB","sidebarGrid":"sidebarGrid__v6Xt1","resubmit":"resubmit__oSkc7","reportBox":"reportBox__JTBFn","reportGrid":"reportGrid__cY21S","reportCard":"reportCard__Xq2pJ","blurred":"blurred__bxCIp","reportCardTitle":"reportCardTitle__Y1VJi","reportLoader":"reportLoader__kd3ig","reportCardFooter":"reportCardFooter__4vIvz","formContainer":"formContainer__-h5rO","formTitle":"formTitle__rKtBp","formGrid":"formGrid__AfLtb","formBox":"formBox__3jqhN","formContent":"formContent__RccAs"});
 
 /***/ }),
 

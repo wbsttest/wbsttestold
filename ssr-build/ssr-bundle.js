@@ -346,19 +346,27 @@ var HowItWorkCard = function HowItWorkCard() {
   var data = [{
     value: '1',
     label: 'Complete the form to check available immigration programs.',
-    image: _assets_home_how1_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"]
+    image: _assets_home_how1_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    width: "59",
+    height: "84"
   }, {
     value: '2',
     label: 'Receive instant results - a detailed list of programs you likely qualify for.',
-    image: _assets_home_how2_webp__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"]
+    image: _assets_home_how2_webp__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"],
+    width: "81",
+    height: "80"
   }, {
     value: '3',
     label: 'Select the program you are interested in.',
-    image: _assets_home_how3_webp__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"]
+    image: _assets_home_how3_webp__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"],
+    width: "81",
+    height: "80"
   }, {
     value: '4',
     label: 'Get a free consultation about the next steps.',
-    image: _assets_home_how4_webp__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"]
+    image: _assets_home_how4_webp__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"],
+    width: "83",
+    height: "80"
   }];
   return h(Fragment, null, data.map(function (e, i) {
     return h("div", {
@@ -366,7 +374,9 @@ var HowItWorkCard = function HowItWorkCard() {
       key: i
     }, h("img", {
       src: e.image,
-      alt: "img"
+      alt: "img",
+      width: e.width,
+      height: e.height
     }), h("h4", null, e.value, "."), h("p", null, e.label));
   }));
 };
@@ -790,7 +800,7 @@ exports.typeOf = z;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "347e9ea500b3ab09c937223ae54d9365.webp");
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "7827e4a12b087335f60758087467afe7.webp");
 
 /***/ }),
 
@@ -945,7 +955,9 @@ var Header = function Header() {
     href: "/"
   }, h("img", {
     src: _assets_header_logo_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
-    alt: "logo"
+    alt: "logo",
+    width: 80,
+    height: 32
   }))));
 };
 /* harmony default export */ __webpack_exports__["a"] = (Header);
@@ -1074,22 +1086,34 @@ var TestimonialCard = function TestimonialCard() {
       class: _style_css__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"].rating
     }, h("img", {
       src: _assets_home_star_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
-      alt: "img"
+      alt: "img",
+      width: 17,
+      height: 16
     }), h("img", {
       src: _assets_home_star_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
-      alt: "img"
+      alt: "img",
+      width: 17,
+      height: 16
     }), h("img", {
       src: _assets_home_star_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
-      alt: "img"
+      alt: "img",
+      width: 17,
+      height: 16
     }), h("img", {
       src: _assets_home_star_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
-      alt: "img"
+      alt: "img",
+      width: 17,
+      height: 16
     }), h("img", {
       src: _assets_home_star_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
-      alt: "img"
+      alt: "img",
+      width: 17,
+      height: 16
     })), h("p", null, e.content), h("h4", null, h("img", {
       src: _assets_home_authorstar_webp__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"],
-      alt: "img"
+      alt: "img",
+      width: 26,
+      height: 25
     }), " ", e.author));
   }));
 };
@@ -10898,7 +10922,7 @@ var RelativesIcon = function RelativesIcon() {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "592b63ddf1a8fab8f0514d8978e7d833.webp");
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "cdd678acce64e0943c9828db719221d4.webp");
 
 /***/ }),
 
@@ -11145,7 +11169,9 @@ var CallToAction = function CallToAction() {
     class: _style_css__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"].callToActionCover
   }, h("img", {
     src: _assets_home_calltoaction_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
-    alt: "img"
+    alt: "img",
+    width: 393,
+    height: 296
   })), h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"].callToActionContent
   }, h("h2", null, "Discover Your Options within ", h("span", null, "2 minutes!")), h(preact_router_match__WEBPACK_IMPORTED_MODULE_2__["Link"], {

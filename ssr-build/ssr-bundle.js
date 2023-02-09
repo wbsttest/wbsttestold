@@ -13306,8 +13306,7 @@ var CallToAction = function CallToAction() {
     height: 296
   }), h("div", {
     className: _style_css__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"].typoAnimate
-  }, h("a", {
-    href: "",
+  }, h("div", {
     class: "typewrite",
     "data-period": "2000",
     "data-type": "[ \"Express Entry\", \"Provincial Nominee\", \"Atlantic Immigration\", \"Temporary Foreign Worker\", \"Federal Skilled Worker\", \"Student\", \"Working Holiday\" ]"

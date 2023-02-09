@@ -10684,19 +10684,24 @@ var TopBanner = function TopBanner() {
     class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].formScroll
   }, h(SelectInput, {
     label: "What is your age?",
-    options: age
+    options: age,
+    name: "age"
   }), h(SelectInput, {
     label: "What is your level of education?",
-    options: education
+    options: education,
+    name: "education"
   }), h(SelectInput, {
     label: "Do you have work experience inside Canada?",
-    options: experience
+    options: experience,
+    name: "experience"
   }), h(SelectInput, {
     label: "Do you have Canadian relatives?",
-    options: relatives
+    options: relatives,
+    name: "language"
   }), h(SelectInput, {
     label: "Do you have Canadian relatives?",
-    options: relatives
+    options: relatives,
+    name: "relatives"
   })), h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].buttonGrid
   }, h("button", {
@@ -10708,11 +10713,15 @@ var TopBanner = function TopBanner() {
 /* harmony default export */ __webpack_exports__["a"] = (TopBanner);
 var SelectInput = function SelectInput(_ref) {
   var label = _ref.label,
-    options = _ref.options;
+    options = _ref.options,
+    name = _ref.name;
   return h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"].formGroup
-  }, h("label", null, label), h(react_select__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"], {
-    options: options
+  }, h("label", {
+    htmlFor: name
+  }, label), h(react_select__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"], {
+    options: options,
+    id: name
   }));
 };
 var AgeIcon = function AgeIcon() {

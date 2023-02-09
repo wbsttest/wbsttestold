@@ -97,14 +97,6 @@ module.exports = _arrayWithHoles, module.exports.__esModule = true, module.expor
 
 /***/ }),
 
-/***/ "+HX9":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "c5b3993117a0456c1eb69e96a16b6687.svg");
-
-/***/ }),
-
 /***/ "+IV6":
 /***/ (function(module, exports) {
 
@@ -185,22 +177,6 @@ module.exports = _nonIterableRest, module.exports.__esModule = true, module.expo
 
 /***/ }),
 
-/***/ "/eQp":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "40c612020432503762e16dd37a561565.svg");
-
-/***/ }),
-
-/***/ "0b0g":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "6f7ac93b3589abd765ad406d23f6d988.svg");
-
-/***/ }),
-
 /***/ "0qAl":
 /***/ (function(module, exports) {
 
@@ -245,11 +221,11 @@ var Home = function Home() {
 
 /***/ }),
 
-/***/ "5Krg":
+/***/ "4cRK":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "cdaaff0ff69ba939fef9d84a1ba1252a.svg");
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "07d3ea3e7a28ea216ff3e7220b24dab4.webp");
 
 /***/ }),
 
@@ -273,7 +249,7 @@ module.exports = _toConsumableArray, module.exports.__esModule = true, module.ex
 "use strict";
 /* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var preact_router_match__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("ox/y");
 /* harmony import */ var preact_router_match__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(preact_router_match__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("L+aG");
+/* harmony import */ var _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("4cRK");
 /* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("gdic");
 
 
@@ -284,52 +260,52 @@ var Sidebar = function Sidebar() {
   }, h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].sidebarGrid
   }, h("p", null, "Profile Summary"), h("ul", null, h("li", null, h("span", null, "Age ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "18 ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   }))), h("li", null, h("span", null, "Education ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "High school diploma ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   }))), h("li", null, h("span", null, "Work experience (Canada) ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "2 years ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   }))), h("li", null, h("span", null, "Work experience (World) ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "I have relatives in Canada with Canadian citizenship or permanent residency ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   }))), h("li", null, h("span", null, "Job offer ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "I have a valid job offer from a registered Canadian employer ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   }))), h("li", null, h("span", null, "English language skills ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "CLB 6 - 7 (High) ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   }))), h("li", null, h("span", null, "French language skills ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "NCLC 0 - 3 (Low) ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   }))), h("li", null, h("span", null, "Canadian relatives ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })), h("b", null, "I have relatives in Canada with Canadian citizenship or permanent residency ", h("img", {
-    src: _assets_results_check_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_check_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "check"
   })))), h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].resubmit
@@ -347,10 +323,10 @@ var Sidebar = function Sidebar() {
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(h, Fragment) {/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("EbY7");
-/* harmony import */ var _assets_home_how1_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("5Krg");
-/* harmony import */ var _assets_home_how2_svg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("ocQS");
-/* harmony import */ var _assets_home_how3_svg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__("wIN8");
-/* harmony import */ var _assets_home_how4_svg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__("I9Nl");
+/* harmony import */ var _assets_home_how1_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("xnBx");
+/* harmony import */ var _assets_home_how2_webp__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("a+yp");
+/* harmony import */ var _assets_home_how3_webp__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__("YPJM");
+/* harmony import */ var _assets_home_how4_webp__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__("httU");
 
 
 
@@ -370,19 +346,19 @@ var HowItWorkCard = function HowItWorkCard() {
   var data = [{
     value: '1',
     label: 'Complete the form to check available immigration programs.',
-    image: _assets_home_how1_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"]
+    image: _assets_home_how1_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"]
   }, {
     value: '2',
     label: 'Receive instant results - a detailed list of programs you likely qualify for.',
-    image: _assets_home_how2_svg__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"]
+    image: _assets_home_how2_webp__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"]
   }, {
     value: '3',
     label: 'Select the program you are interested in.',
-    image: _assets_home_how3_svg__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"]
+    image: _assets_home_how3_webp__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"]
   }, {
     value: '4',
     label: 'Get a free consultation about the next steps.',
-    image: _assets_home_how4_svg__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"]
+    image: _assets_home_how4_webp__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"]
   }];
   return h(Fragment, null, data.map(function (e, i) {
     return h("div", {
@@ -403,7 +379,7 @@ var HowItWorkCard = function HowItWorkCard() {
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var preact_router__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("Y3FI");
-/* harmony import */ var _assets_results_lock_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("f4hy");
+/* harmony import */ var _assets_results_lock_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("bI+Y");
 /* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("gdic");
 
 
@@ -414,7 +390,7 @@ var ResultForm = function ResultForm() {
   }, h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].formTitle
   }, h("h3", null, h("img", {
-    src: _assets_results_lock_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_lock_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "lock"
   }), " Unlock 60+ available programs"), h("p", null, "Choosing the right immigration program, depending on your own profile, can be challenging to begin with. We are happy to answer any questions about the immigration process to Canada if you are interested in finding out more!")), h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].formGrid
@@ -487,7 +463,7 @@ module.exports = _extends, module.exports.__esModule = true, module.exports["def
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("okHz");
-/* harmony import */ var _assets_thankyou_thankyou_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("+HX9");
+/* harmony import */ var _assets_thankyou_thankyou_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("aqZz");
 /* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("AY/J");
 
 
@@ -498,7 +474,7 @@ var ThankYou = function ThankYou() {
   }, h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"].container
   }, h("img", {
-    src: _assets_thankyou_thankyou_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_thankyou_thankyou_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "thankyou"
   }), h("h2", null, "Thank You!"), h("p", null, "An immigration professional will contact you shortly to complete your profile evaluation and discuss the next steps."))));
 };
@@ -513,6 +489,14 @@ var ThankYou = function ThankYou() {
 "use strict";
 // extracted by mini-css-extract-plugin
 /* harmony default export */ __webpack_exports__["a"] = ({"layout":"layout__gpm4a","wrapper":"wrapper__b8TZG"});
+
+/***/ }),
+
+/***/ "CpeD":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "1872fbadb2de9751eb2ac5c97b51e60a.webp");
 
 /***/ }),
 
@@ -660,14 +644,6 @@ module.exports = require("preact");
 
 /***/ }),
 
-/***/ "I9Nl":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "36c1749f0f7ea2f08c5c6a1d0152d2e9.svg");
-
-/***/ }),
-
 /***/ "K4DB":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -682,14 +658,6 @@ function _possibleConstructorReturn(self, call) {
   return assertThisInitialized(self);
 }
 module.exports = _possibleConstructorReturn, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "L+aG":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "40a1c7db8adc368824ce6da4ca30992d.svg");
 
 /***/ }),
 
@@ -815,6 +783,14 @@ exports.isValidElementType = function (a) {
   return "string" === typeof a || "function" === typeof a || a === e || a === m || a === g || a === f || a === p || a === q || "object" === _typeof(a) && null !== a && (a.$$typeof === t || a.$$typeof === r || a.$$typeof === h || a.$$typeof === k || a.$$typeof === n || a.$$typeof === w || a.$$typeof === x || a.$$typeof === y || a.$$typeof === v);
 };
 exports.typeOf = z;
+
+/***/ }),
+
+/***/ "MSiu":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "347e9ea500b3ab09c937223ae54d9365.webp");
 
 /***/ }),
 
@@ -955,7 +931,7 @@ var App = function App() {
 "use strict";
 /* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var preact_router_match__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("ox/y");
 /* harmony import */ var preact_router_match__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(preact_router_match__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _assets_header_logo_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("bcOB");
+/* harmony import */ var _assets_header_logo_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("fsdc");
 /* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("ySiU");
 
 
@@ -968,7 +944,7 @@ var Header = function Header() {
   }, h(preact_router_match__WEBPACK_IMPORTED_MODULE_0__["Link"], {
     href: "/"
   }, h("img", {
-    src: _assets_header_logo_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_header_logo_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "logo"
   }))));
 };
@@ -1046,14 +1022,6 @@ module.exports = _classCallCheck, module.exports.__esModule = true, module.expor
 
 /***/ }),
 
-/***/ "SaK9":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "ae18c65a61c5146ef4a3654ef786644c.svg");
-
-/***/ }),
-
 /***/ "T1e2":
 /***/ (function(module, exports) {
 
@@ -1072,8 +1040,8 @@ module.exports = _assertThisInitialized, module.exports.__esModule = true, modul
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(h, Fragment) {/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("EbY7");
-/* harmony import */ var _assets_home_star_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("SaK9");
-/* harmony import */ var _assets_home_authorstar_svg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("0b0g");
+/* harmony import */ var _assets_home_star_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("Vz2e");
+/* harmony import */ var _assets_home_authorstar_webp__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("pSyp");
 
 
 
@@ -1105,22 +1073,22 @@ var TestimonialCard = function TestimonialCard() {
     }, h("div", {
       class: _style_css__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"].rating
     }, h("img", {
-      src: _assets_home_star_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+      src: _assets_home_star_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
       alt: "img"
     }), h("img", {
-      src: _assets_home_star_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+      src: _assets_home_star_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
       alt: "img"
     }), h("img", {
-      src: _assets_home_star_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+      src: _assets_home_star_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
       alt: "img"
     }), h("img", {
-      src: _assets_home_star_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+      src: _assets_home_star_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
       alt: "img"
     }), h("img", {
-      src: _assets_home_star_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+      src: _assets_home_star_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
       alt: "img"
     })), h("p", null, e.content), h("h4", null, h("img", {
-      src: _assets_home_authorstar_svg__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"],
+      src: _assets_home_authorstar_webp__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"],
       alt: "img"
     }), " ", e.author));
   }));
@@ -10152,6 +10120,14 @@ var react_select_esm_NonceProvider = function NonceProvider(_ref) {
 
 /***/ }),
 
+/***/ "Vz2e":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "007383c9222d1d10f99e78cbca777fa2.webp");
+
+/***/ }),
+
 /***/ "WI9V":
 /***/ (function(module, exports) {
 
@@ -10511,7 +10487,7 @@ Router.exec = exec;
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("okHz");
-/* harmony import */ var _assets_results_bell_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("/eQp");
+/* harmony import */ var _assets_results_bell_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("CpeD");
 /* harmony import */ var _components_results_sidebar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("5hT1");
 /* harmony import */ var _components_results_report__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__("+LEj");
 /* harmony import */ var _components_results_form__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__("79EO");
@@ -10530,7 +10506,7 @@ var Results = function Results() {
   }, h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"].pageTitle
   }, h("h2", null, "Your results ", h("img", {
-    src: _assets_results_bell_svg__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_results_bell_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "bell"
   })), h("p", null, "Your profile analysis is complete! Please find your results below.")), h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"].resultGrid
@@ -10540,6 +10516,14 @@ var Results = function Results() {
 };
 /* harmony default export */ __webpack_exports__["a"] = (Results);
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__("HteQ")["h"]))
+
+/***/ }),
+
+/***/ "YPJM":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "c574758bcd8d2de374cfe7a4bda92fcd.webp");
 
 /***/ }),
 
@@ -10559,11 +10543,27 @@ module.exports = _unsupportedIterableToArray, module.exports.__esModule = true, 
 
 /***/ }),
 
-/***/ "bcOB":
+/***/ "a+yp":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "ea4c12b94b5030369157fbe62012c768.svg");
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "75a6c6b506599ac54c0bcf3022a07e4f.webp");
+
+/***/ }),
+
+/***/ "aqZz":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "21c5fabbada394b262606237a2264383.webp");
+
+/***/ }),
+
+/***/ "bI+Y":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "fcb1c95e0d38c8d074abb9e0e8801bf6.webp");
 
 /***/ }),
 
@@ -10604,14 +10604,6 @@ function _inherits(subClass, superClass) {
   if (superClass) setPrototypeOf(subClass, superClass);
 }
 module.exports = _inherits, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "f4hy":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "cbf8d390dc5b6a3be872de37c0fffd84.svg");
 
 /***/ }),
 
@@ -10893,6 +10885,14 @@ var RelativesIcon = function RelativesIcon() {
 
 /***/ }),
 
+/***/ "fsdc":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "592b63ddf1a8fab8f0514d8978e7d833.webp");
+
+/***/ }),
+
 /***/ "gdic":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10916,6 +10916,14 @@ function _taggedTemplateLiteral(strings, raw) {
   }));
 }
 module.exports = _taggedTemplateLiteral, module.exports.__esModule = true, module.exports["default"] = module.exports;
+
+/***/ }),
+
+/***/ "httU":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "1b4d714492a4669f03734ef6a13f984f.webp");
 
 /***/ }),
 
@@ -10964,14 +10972,6 @@ function _slicedToArray(arr, i) {
   return arrayWithHoles(arr) || iterableToArrayLimit(arr, i) || unsupportedIterableToArray(arr, i) || nonIterableRest();
 }
 module.exports = _slicedToArray, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "ocQS":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "b0cacddd04f6a530bccc52d931fea645.svg");
 
 /***/ }),
 
@@ -11106,12 +11106,20 @@ Match.Link = Link;
 
 /***/ }),
 
+/***/ "pSyp":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "d10cbe7920ac7bd5a135ef87dd01c7f2.webp");
+
+/***/ }),
+
 /***/ "qTIA":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("EbY7");
-/* harmony import */ var _assets_home_calltoaction_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("vkfm");
+/* harmony import */ var _assets_home_calltoaction_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("MSiu");
 /* harmony import */ var preact_router_match__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("ox/y");
 /* harmony import */ var preact_router_match__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(preact_router_match__WEBPACK_IMPORTED_MODULE_2__);
 
@@ -11127,7 +11135,7 @@ var CallToAction = function CallToAction() {
   }, h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"].callToActionCover
   }, h("img", {
-    src: _assets_home_calltoaction_png__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
+    src: _assets_home_calltoaction_webp__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"],
     alt: "img"
   })), h("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"].callToActionContent
@@ -11144,25 +11152,26 @@ var CallToAction = function CallToAction() {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
+/* WEBPACK VAR INJECTION */(function(h) {/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("rS5q");
 
-// EXTERNAL MODULE: external "preact"
-var external_preact_ = __webpack_require__("HteQ");
-
-// CONCATENATED MODULE: ./components/footer/style.css
-// extracted by mini-css-extract-plugin
-/* harmony default export */ var style = ({"footer":"footer__DGBa9","container":"container__eare5"});
-// CONCATENATED MODULE: ./components/footer/index.js
-
-// import { Link } from 'preact-router/match';
-
-var footer_Footer = function Footer() {
-  return Object(external_preact_["h"])("div", {
-    class: style.footer
-  }, Object(external_preact_["h"])("div", {
-    class: style.container
-  }, Object(external_preact_["h"])("p", null, "UIS Canada is a private immigration company that specializes in helping people make a fresh start in Canada. We provide a range of services to support immigrants as they navigate their new lives in Canada. We will help you improve your language skills, search for jobs, fill out paperwork and guide you until you successfully complete your process."), Object(external_preact_["h"])("p", null, "[Phone Number] [Email Address]")));
+var Footer = function Footer() {
+  return h("div", {
+    class: _style_css__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"].footer
+  }, h("div", {
+    class: _style_css__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"].container
+  }, h("p", null, "UIS Canada is a private immigration company that specializes in helping people make a fresh start in Canada. We provide a range of services to support immigrants as they navigate their new lives in Canada. We will help you improve your language skills, search for jobs, fill out paperwork and guide you until you successfully complete your process."), h("p", null, "[Phone Number] [Email Address]")));
 };
-/* harmony default export */ var footer = __webpack_exports__["a"] = (footer_Footer);
+/* harmony default export */ __webpack_exports__["a"] = (Footer);
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__("HteQ")["h"]))
+
+/***/ }),
+
+/***/ "rS5q":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+// extracted by mini-css-extract-plugin
+/* harmony default export */ __webpack_exports__["a"] = ({"footer":"footer__DGBa9","container":"container__eare5"});
 
 /***/ }),
 
@@ -11184,19 +11193,11 @@ module.exports = _toPrimitive, module.exports.__esModule = true, module.exports[
 
 /***/ }),
 
-/***/ "vkfm":
+/***/ "xnBx":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "f8dfc3282a8396f13e25bcf84bdac0f8.png");
-
-/***/ }),
-
-/***/ "wIN8":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "a457d08c98b5231cf0294f4dff881bb7.svg");
+/* harmony default export */ __webpack_exports__["a"] = (__webpack_require__.p + "e148ac447be66c2a350e261b19f1da28.webp");
 
 /***/ }),
 
